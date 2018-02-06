@@ -6,7 +6,7 @@
 </ul>
 
 ## Skill
-HTML/CSS/RWD/JavaScript/jQuery/AJAX/Vue.js/python/Django/Regex
+**HTML/CSS/RWD/JavaScript/jQuery/AJAX/Vue.js/python/Django/Regex**
 <ul>
 <li>能用 HTML 建立網頁架構輔以 CSS 美化網頁且設計為 RWD 響應式網頁</li>
 <li>了解 Javascript 原生語法(含部分ES6) 並用其邏輯編寫各種網頁效果 (ex.資料擷取、API串接)</li>
@@ -16,3 +16,5 @@ HTML/CSS/RWD/JavaScript/jQuery/AJAX/Vue.js/python/Django/Regex
 <li>能用 python Django 框架做簡單頁面承接前端資料，於處理後部屬至於雲端</li>
 <li>能過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
 </ul> 
+
+
