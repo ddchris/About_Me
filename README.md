@@ -41,7 +41,7 @@
   * 透過 Ajax 取得 Open Data 資料
   * 結合 Google Maps API 呈現景點所在位置
   
-* [BMI 計算器 (JavaScript、LocalSotrge)](https://ddchris.github.io/HexRestaurant/)
+* [BMI 計算器 (RWD、JavaScript、LocalSotrge)](https://ddchris.github.io/HexRestaurant/)
 
   * 不倚賴 CSS Framework 進行 RWD 客製化 
   * 使用 SCSS 加速開發與便於後續維護
