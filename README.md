@@ -62,8 +62,8 @@
 
 * [ 程式碼上色 RESTful API (python、Django、Django REST framework)](https://pastebintutorial.herokuapp.com/snippets/)
 
-  * 利用 Django REST framework 製作簡單網站式 API
-  * 設定簡單用戶權限
+  * 利用 Django REST framework 製作簡單網站式 API
+  * 設定簡單用戶權限
   
 ## Introduction
 
