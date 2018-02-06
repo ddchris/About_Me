@@ -41,7 +41,7 @@
   * 透過 Ajax 取得 Open Data 資料
   * 結合 Google Maps API 呈現景點所在位置
   
-* [BMI 計算器 (RWD、JavaScript、LocalSotrge)](https://ddchris.github.io/HexRestaurant/)
+* [BMI 計算器 (RWD、JavaScript、LocalSotrge)](https://ddchris.github.io/BMI_calculator/)
 
   * 不倚賴 CSS Framework 進行 RWD 客製化 
   * 使用 SCSS 加速開發與便於後續維護
@@ -53,7 +53,7 @@
   * 設定 timeInterval 定時更新資料
   * 將網頁部屬至 Heroku 並做視覺化呈現
 
-* [ Chris2012's 購物商城 (jQuery、Ajax、python、Django)](https://scrapnbanews.herokuapp.com/)
+* [ Chris2012's 購物商城 (jQuery、Ajax、python、Django)](http://chris2012.pythonanywhere.com/)
 
   * 使用 jQuery 做圖片輪播、自動完成註冊 e-mail 輸入
   * 使用 animate.css 做簡單動畫
