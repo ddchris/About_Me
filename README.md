@@ -47,6 +47,24 @@
   * 使用 SCSS 加速開發與便於後續維護
   * 利用 Vue.js 渲染頁面方便日後新增資訊
   
+* [NBA 新聞爬蟲 (jQuery、Ajax、python、Django)](https://scrapnbanews.herokuapp.com/)
+
+  * 利用 requests、beautifulSoup 套件進行網頁新聞爬取並存至 SQLite
+  * 設定 timeInterval 定時更新資料
+  * 將網頁部屬至 Heroku 並做視覺化呈現
+
+* [ Chris2012's 購物商城 (jQuery、Ajax、python、Django)](https://scrapnbanews.herokuapp.com/)
+
+  * 使用 jQuery 做圖片輪播、自動完成註冊 e-mail 輸入
+  * 使用 animate.css 做簡單動畫
+  * 會員登入註冊系統 (含使用第三方 API 登入及 Regex y 資料驗證)
+  * 將網頁部屬至 pythonanywhere
+
+* [ 程式碼上色 RESTful API (python、Django、Django REST framework)](https://pastebintutorial.herokuapp.com/snippets/)
+
+  * 利用 Django REST framework 製作簡單網站式 API
+  * 設定簡單用戶權限
+  
 ## Introduction
 
 
