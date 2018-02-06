@@ -15,4 +15,4 @@ HTML/CSS/RWD/JavaScript/jQuery/AJAX/Vue.js/python/Django/Regex
 <li>能以 python 進行基本網頁爬蟲</li>
 <li>能用 python Django 框架做簡單頁面承接前端資料，於處理後部屬至於雲端</li>
 <li>能過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
-</ul>
+</ul> 
