@@ -6,15 +6,47 @@
 </ul>
 
 ## Skill
-### HTML/CSS/RWD/JavaScript/jQuery/AJAX/Vue.js/python/Django/Regex
+### HTML/CSS/Sass/RWD/JavaScript/jQuery/Ajax/Vue.js
 <ul>
-<li>能用 HTML 建立網頁架構輔以 CSS 美化網頁且設計為 RWD 響應式網頁</li>
+<li>能用 HTML 建立網頁架構輔以 CSS/Sass 美化網頁且設計為 RWD 響應式網頁</li>
 <li>了解 Javascript 原生語法(含部分ES6) 並用其邏輯編寫各種網頁效果 (ex.資料擷取、API串接)</li>
-<li>了解 jQuery 語法，包含 DOM 元素之操控及 AJAX 請求資料</li>
+<li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
 <li>了解 Vue.js 基本語法，包含 Vue object 建立(生命週期)，HTML資料綁定、條件判斷、迴圈及事件監聽</li>
+</ul>
+
+### git/github
+<ul>
+<li>能使用 Git 在 GitHub 上進行版本控制</li>
+<li>Github Page 建立</li>
+</ul>
+
+### python/Django/Regex/MySQL
+<ul>
 <li>能以 python 進行基本網頁爬蟲</li>
 <li>能用 python Django 框架做簡單頁面承接前端資料，於處理後部屬至於雲端</li>
 <li>能過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
-</ul> 
+<li>能利用 Regex 搜尋過濾字串</li>
+<li>了解 MySQL 基本 CRUD</li>
+</ul>
+
+## Works
+* [六角西餐廳 (RWD、Sass、JQuery)](https://ddchris.github.io/HexRestaurant/)
+
+  * 不倚賴 CSS Framework 進行 RWD 客製化 
+  * 使用 SCSS 加速開發與便於後續維護 
+  * 利用 Vue.js 渲染頁面方便日後新增項目
+  
+* [高雄旅遊資訊查詢網 (RWD、JavaScript、Ajax)](https://ddchris.github.io/Kaohsiung_tourist_attractions/)
+
+  * 透過 Ajax 取得 Open Data 資料
+  * 結合 Google Maps API 呈現景點所在位置
+  
+* [BMI 計算器 (JavaScript、LocalSotrge)](https://ddchris.github.io/HexRestaurant/)
+
+  * 不倚賴 CSS Framework 進行 RWD 客製化 
+  * 使用 SCSS 加速開發與便於後續維護
+  * 利用 Vue.js 渲染頁面方便日後新增資訊
+  
+## Introduction
 
 
