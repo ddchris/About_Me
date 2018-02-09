@@ -1,11 +1,13 @@
 # 梁藝礬 (Yi-Fan Liang) 
+
+## Information
 <ul>
 <li>English name: Chris</li>
 <li>Location: 宜蘭縣宜蘭市</li>
 <li>E-mail: evilkillerice@gmail.com</li>
 </ul>
 
-## Skill
+## Skills
 ### HTML/CSS/Sass/RWD/JavaScript/jQuery/Ajax/Vue.js
 <ul>
 <li>能用 HTML 建立網頁架構輔以 CSS/Sass 美化網頁且設計為 RWD 響應式網頁</li>
@@ -17,7 +19,7 @@
 ### git/github
 <ul>
 <li>能使用 Git 在 GitHub 上進行版本控制</li>
-<li>Github Page 建立</li>
+<li>Github Page 建立靜態網頁</li>
 </ul>
 
 ### python/Django/Regex/MySQL
@@ -51,20 +53,24 @@
 
   * 利用 requests、beautifulSoup 套件進行網頁新聞爬取並存至 SQLite
   * 設定 timeInterval 定時更新資料
-  * 將網頁部屬至 Heroku 並做視覺化呈現
+  * 將爬得資料做簡單視覺化呈現
+  * 網頁部屬至 Heroku
 
 * [ Chris2012's 購物商城 (jQuery、Ajax、python、Django)](http://chris2012.pythonanywhere.com/)
 
-  * 使用 jQuery 做圖片輪播、自動完成註冊 e-mail 輸入
-  * 使用 animate.css 做簡單動畫
-  * 會員登入註冊系統 (含使用第三方 API 登入及 Regex y 資料驗證)
-  * 將網頁部屬至 pythonanywhere
+  * 使用 jQuery 做圖片輪播、自動完成註冊 e-mail 輸入、操控 DOM 做頁面切換
+  * 使用 Animate.css 插件達成簡單動畫
+  * 會員登入註冊系統 (含使用第三方 API 登入及 Regex 資料驗證)
+  * 網頁部屬至 pythonanywhere
 
 * [ 程式碼上色 RESTful API (python、Django、Django REST framework)](https://pastebintutorial.herokuapp.com/snippets/)
-
-  * 利用 Django REST framework 製作簡單網站式 API
-  * 設定簡單用戶權限
+  * 利用 Django REST framework 製作可瀏覽之網站式 RESTful API
+  * 設定簡單用戶存取權限
   
-## Introduction
+## Personality
+
+  * 親切隨和 - 樂於團隊合作更勝單打獨鬥　
+  * 樂於學習 - 能自主學習新技術新
+  * 具責任感 - 交付的事情都會盡力完成
 
 
