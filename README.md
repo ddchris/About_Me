@@ -31,6 +31,11 @@
 <li>了解 MySQL 基本 CRUD</li>
 </ul>
 
+###　Linux
+* 基本操作指令
+* 具備檔案、目錄之權限概念
+* 文書編輯器（vim）操作
+
 ## Works
 * [六角西餐廳 (RWD、Sass、JQuery)](https://ddchris.github.io/HexRestaurant/)
 
