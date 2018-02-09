@@ -31,7 +31,7 @@
 <li>了解 MySQL 基本 CRUD</li>
 </ul>
 
-###　Linux
+### Linux
 * 基本操作指令
 * 具備檔案、目錄之權限概念
 * 文書編輯器（vim）操作
