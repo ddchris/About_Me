@@ -13,7 +13,7 @@
 <li>能用 HTML 建立網頁架構輔以 CSS/Sass 美化網頁且設計為 RWD 響應式網頁</li>
 <li>了解 Javascript 原生語法(含部分ES6) 並用其邏輯編寫各種網頁效果 (ex.資料擷取、API串接)</li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
-<li>了解 Vue.js 基本語法，包含 Vue object 建立(生命週期)，HTML資料綁定、條件判斷、迴圈及事件監聽</li>
+<li>具備 Vue.js 基本概念，包含 instance 建立、生命週期、dom 資料綁定、component 使用、event bus 資料傳遞</li>
 </ul>
 
 ### git/github
