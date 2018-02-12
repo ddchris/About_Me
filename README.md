@@ -13,7 +13,8 @@
 <li>能用 HTML 建立網頁架構輔以 CSS/Sass 美化網頁且設計為 RWD 響應式網頁</li>
 <li>了解 Javascript 原生語法(含部分ES6) 並用其邏輯編寫各種網頁效果 (ex.資料擷取、API串接)</li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
-<li>具備 Vue.js 基本概念，包含 instance 建立、生命週期、dom 資料綁定、component 使用、event bus 資料傳遞</li>
+<li>具備 Vue.js 基本概念，包含 instance 建立、生命週期、DOM 資料綁定、component 使用
+ 　　、event bus 資料傳遞、基本 Vue-cli webpack 使用</li>
 </ul>
 
 ### git/github
@@ -26,7 +27,7 @@
 <ul>
 <li>能以 python 進行基本網頁爬蟲</li>
 <li>能用 python Django 框架做簡單頁面承接前端資料，於處理後部屬至於雲端</li>
-<li>能過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
+<li>用過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
 <li>能利用 Regex 搜尋過濾字串</li>
 <li>了解 MySQL 基本 CRUD</li>
 </ul>
@@ -75,7 +76,7 @@
 ## Personality
 
   * 親切隨和 - 樂於團隊合作更勝單打獨鬥
-  * 樂於學習 - 不斷學習新技術，強化自我能力
+  * 樂於學習 - 喜歡不斷學習新技術，強化自我能力
   * 具責任感 - 交付的事情都能如期完成
 
 
