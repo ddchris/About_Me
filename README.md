@@ -55,6 +55,10 @@
   * 使用 SCSS 加速開發與便於後續維護
   * 利用 Vue.js 渲染頁面方便日後新增資訊
   
+* [JS-30-days (JavaScript(ES6)、CSS3、CSS4)](https://github.com/ddchris/Javascript_30_Day_practice)
+
+  * 不倚賴 Framework 的 Javascript(ES6) 30 個小應用
+  
 * [NBA 新聞爬蟲 (jQuery、Ajax、python、Django)](https://scrapnbanews.herokuapp.com/)
 
   * 利用 requests、beautifulSoup 套件進行網頁新聞爬取並存至 SQLite
