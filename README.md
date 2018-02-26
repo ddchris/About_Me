@@ -52,8 +52,7 @@
 * [BMI 計算器 (RWD、JavaScript、LocalSotrge)](https://ddchris.github.io/BMI_calculator/)
 
   * 不倚賴 CSS Framework 進行 RWD 客製化 
-  * 使用 SCSS 加速開發與便於後續維護
-  * 利用 Vue.js 渲染頁面方便日後新增資訊
+  * 使用 LocalStorge 儲存資料於 Client 端
   
 * [JS-30-days (JavaScript(ES6)、CSS3、CSS4)](https://github.com/ddchris/Javascript_30_Day_practice)
 
