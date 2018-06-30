@@ -38,6 +38,13 @@
 * 文書編輯器（vim）操作
 
 ## Works
+
+* [待辦事項清單 (Vue、JavaScript、BootStrap)](https://ddchris.github.io/Vue-To-do-list/)
+
+  * 利用 Vue.js 響應特性建立待辦事項清單 
+  * 使用 JavaScript ES6 語法
+  * 資料處理 - 新增、修改、刪除、過濾
+  
 * [六角西餐廳 (RWD、Sass、JQuery)](https://ddchris.github.io/HexRestaurant/)
 
   * 不倚賴 CSS Framework 進行 RWD 客製化 
