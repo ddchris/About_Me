@@ -3,24 +3,33 @@
 ## Information
 <ul>
 <li>English name: Chris</li>
-<li>Location: 宜蘭縣宜蘭市</li>
+<li>Location: 台北市內湖區</li>
+<li>Education: 國立清華大學/材料工程學系</li>
 <li>E-mail: evilkillerice@gmail.com</li>
 </ul>
 
+##Expenience
+2018/3 - now : 辰城科技 (前端開發工程師)
+
 ## Skills
-### HTML/CSS/Sass/RWD/JavaScript/jQuery/Ajax/Vue.js
+### HTML/CSS/Sass/RWD/JavaScript(ES6)/jQuery/Ajax/Vue(vuex)/Vue-Cli/
 <ul>
-<li>能用 HTML 建立網頁架構輔以 CSS/Sass 美化網頁且設計為 RWD 響應式網頁</li>
-<li>了解 Javascript 原生語法(含部分ES6) 並用其邏輯編寫各種網頁效果 (ex.資料擷取、API串接)</li>
+<li>能用 HTML 建立網頁架構，輔以 CSS/Sass 美化網頁且設計為 RWD 網頁</li>
+<li>理解 HTML5 新功能(ex. canvas 製作簡易動畫、video 影片播放控制、WebSocket 協定、localStorage 存取)</li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
-<li>具備 Vue.js 基本概念，包含 instance 建立、生命週期、DOM 資料綁定、component 使用<br>
- 、event bus 資料傳遞、基本 Vue-cli webpack 使用</li>
+<li>能用 Javascript 配合 firebase 資料庫 API 建立應用 (ex.簡易聊天室)</li>
+<li>熟悉 Javascript 原生語法(含ES6)， 並善用邏輯編寫各種網頁效果 (ex.資料處理、API串接、動畫效果、)</li>
+<li>善用除錯工具(ex. dev tool, v-console, fiddler), 具備良好的網頁及行動裝置之 debug 能力</li>
+<li>具備 Vue.js 專案建立及維護經驗，熟悉 app 建立、vue 生命週期、DOM 資料綁定、事件監聽、資料刷新機制、component 設計<br>
+ 、不同層級資料傳遞、Vue-cli webpack 打包專案、並依不同專案需求適時引入第三方套件(ex 表單驗證、拖曳排序、網頁載入動畫)</li>
+<li>能用 Google Analysis 作網站流量分析(ex.用戶使用瀏覽器及行動裝置比例、拜訪時間、停駐時間、歷史足跡...)</li>
 </ul>
 
 ### git/github
 <ul>
-<li>能使用 Git 在 GitHub 上進行版本控制</li>
-<li>Github Page 建立靜態網頁</li>
+<li>能使用 Git 指令在 GitHub 上進行版本控制</li>
+<li>能在 Github Page 建立靜態網頁</li>
+<li>熟悉 GUI 版控工具(ex. sourceTree)加速開發流程</li>
 </ul>
 
 ### python/Django/Regex/MySQL
@@ -28,7 +37,7 @@
 <li>能以 python 進行基本網頁爬蟲</li>
 <li>能用 python Django 框架做簡單頁面承接前端資料，於處理後部屬至於雲端</li>
 <li>用過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
-<li>能利用 Regex 搜尋過濾字串</li>
+<li>了解基本 Regular expression</li>
 <li>了解 MySQL 基本 CRUD</li>
 </ul>
 
@@ -87,7 +96,14 @@
 
   * 親切隨和 - 樂於團隊合作更勝單打獨鬥
   * 樂於學習 - 喜歡不斷學習新技術，強化自我能力
-  * 具責任感 - 交付的事情都能如期完成
-  * 喜歡程式 - 希望看到親手做出來的產品發光發熱
+  * 具責任感 - 交付的事情都會盡力如期完成、嚴格檢視自己每一行程式碼
+  * 喜歡程式 - 期望能自身開發的產品發光發熱進而獲得成就感與自我肯定
+
+## Hobbies
+
+  * 閱讀 - 喜歡心理學、人生哲理書籍及英文雜誌
+  * 影視 - 主要看電影跟美劇 (享受劇情順便培養語感)
+  * 電玩 - Switch (輕鬆簡單的遊戲為主)
+  * youtuber- 冏星人、啾啾鞋、KUAIZERO、閱部客
 
 
