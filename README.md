@@ -19,7 +19,7 @@
 <li>具備 使用 CSS 框架 BootStrap 網格系統快速建置專案經驗/li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
 <li>能用 Javascript 配合 firebase 資料庫 API 建立應用 (ex.簡易聊天室)</li>
-<li>熟悉 Javascript 原生語法(含ES6)， 並善用邏輯編寫各種網頁效果 (ex.資料處理、API串接、動畫效果、非同步處理)</li>
+<li>熟悉 Javascript 原生語法(含ES6)， 並善用邏輯編寫各種網頁效果 (ex.資料處理、API串接、動畫效果、非同步處理、正規表示法)</li>
 <li>善用除錯工具(ex. dev tool, v-console, fiddler), 具備良好的網頁及行動裝置之 debug 能力</li>
 <li>具備 Vue.js 專案建立及維護經驗，熟悉 app 建立、vue 生命週期、DOM 資料綁定、事件監聽、資料刷新機制、component 設計、資料傳遞、Webpack 打包專案、並依需求引入第三方套件(ex 表單驗證、拖曳排序、網頁載入動畫)</li>
 <li>能用 Google Analysis 作網站流量分析(ex.用戶使用瀏覽器及行動裝置比例、拜訪時間、停駐時間、歷史足跡...)</li>
