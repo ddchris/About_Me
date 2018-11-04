@@ -49,7 +49,7 @@
 
 ## Works
 
-* [電商購物網站 (Vue、Vue-Cli、JavaScript、BootStrap、Sass)](https://ddchris.github.io/Vue_shopCart/dist/index#/login)
+* [電商購物網站後台 (Vue、Vue-Cli、JavaScript、BootStrap、Sass)](https://ddchris.github.io/Vue_shopCart/dist/index#/login)
 
   * Vue.js + Vue-Cli + webpack 打造的電商後台管理系統
   * 使用 Vue router 進行頁面訪問權限驗證
