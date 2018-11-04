@@ -9,7 +9,8 @@
 </ul>
 
 ##Expenience
-2018/3 - now : 辰城科技 (前端開發工程師)
+###2018/3 - now : 辰城科技 (前端開發工程師)
+主要業務: Vue 專案維護與新功能開發
 
 ## Skills
 ### HTML/CSS/Sass/RWD/BootStrap/jQuery/JavaScript(ES6)/Ajax/Vue(vuex)/Vue-Cli/
