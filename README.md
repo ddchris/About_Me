@@ -17,6 +17,7 @@
 <li>能用 HTML 建立網頁架構，輔以 CSS/Sass 美化網頁且設計為 RWD 網頁</li>
 <li>理解 HTML5 新功能(ex. canvas 製作簡易動畫、video 影片播放控制、WebSocket 協定、localStorage 存取)</li>
 <li>具備 使用 CSS 框架 BootStrap 網格系統快速建置專案經驗/li>
+<li>具備處理各式瀏覽器兼容性問題能力及使用 babel-polyfill 做語法向下相容/li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
 <li>能用 Javascript 配合 firebase 資料庫 API 建立應用 (ex.簡易聊天室)</li>
 <li>熟悉 Javascript 原生語法(含ES6)， 並善用邏輯編寫各種網頁效果 (ex.資料處理、API串接、動畫效果、非同步處理、正規表示法)</li>
@@ -48,6 +49,14 @@
 
 ## Works
 
+* [電商購物網站 (Vue、Vue-Cli、JavaScript、BootStrap、Sass)](https://ddchris.github.io/Vue_shopCart/dist/index#/login)
+
+  * Vue.js + Vue-Cli + webpack 打造的電商後台管理系統
+  * 使用 Vue router 進行頁面訪問權限驗證
+  * 使用官方推薦 axios 模組與後端各式 API (新增、修改、刪除、註冊、登入) 串接
+  * 引入第三方套件 vue-loading-overlay、vee-validate 製作頁面讀取、表單驗證功能
+  * 使用 BootStrap 網格系統做快速開發
+  
 * [待辦事項清單 (Vue、JavaScript、BootStrap)](https://ddchris.github.io/Vue-To-do-list/)
 
   * 利用 Vue.js 響應特性建立待辦事項清單 
