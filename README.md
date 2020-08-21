@@ -3,7 +3,7 @@
 ## Information
 <ul>
 <li>English name: Chris</li>
-<li>Location: 台北市內湖區</li>
+<li>Location: 宜蘭縣宜蘭市</li>
 <li>Education: 國立清華大學/材料工程學系</li>
 <li>E-mail: evilkillerice@gmail.com</li>
 </ul>
