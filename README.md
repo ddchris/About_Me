@@ -18,7 +18,7 @@
 <ul>
 <li>能用 HTML 建立網頁架構，輔以 CSS/Sass 美化網頁且設計為 RWD 網頁</li>
 <li>理解 HTML5 新功能(ex. canvas 製作簡易動畫、video 影片播放控制、WebSocket 協定、localStorage 存取)</li>
-<li>具備 使用 CSS 框架 BootStrap 網格系統快速建置專案經驗/li>
+<li>具備 使用 CSS 框架 BootStrap 網格系統快速建置專案經驗</li>
 <li>具備處理各式瀏覽器兼容性問題能力及使用 babel-polyfill 做語法向下相容</li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
 <li>能用 Javascript 配合 firebase 資料庫 API 建立應用 (ex.簡易聊天室)</li>
