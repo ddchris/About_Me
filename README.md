@@ -3,30 +3,36 @@
 ## Information
 <ul>
 <li>English name: Chris</li>
-<li>Location: 宜蘭縣宜蘭市</li>
+<li>Location: 北市內湖區</li>
 <li>Education: 國立清華大學/材料工程學系</li>
 <li>E-mail: evilkillerice@gmail.com</li>
 </ul>
 
 
 ## Expenience
+
+### 2020/9 - 2025/4 : 富揚科技有限公司 (前端開發工程師)
+#### 主要業務: Vue 專案維護與新功能開發
+
 ### 2018/3 - 2020/6 : 辰城科技 (前端開發工程師)
 #### 主要業務: Vue 專案維護與新功能開發
 
 ## Skills
-### HTML/CSS/Sass/RWD/BootStrap/jQuery/JavaScript(ES6)/Ajax/Vue(vuex)/Vue-Cli/FireBase
+### HTML/CSS/Sass/RWD/BootStrap/jQuery/JavaScript(ES6-ES14)/Ajax/Vue(vuex)/Vue-Cli/Vue3(Pinia)/SPA/FireBase/ElementUI/Vant
 <ul>
-<li>能用 HTML 建立網頁架構，輔以 CSS/Sass 美化網頁且設計為 RWD 網頁</li>
+<li>能用 HTML 建立網頁架構，輔以 CSS/Scss 美化網頁且設計為 RWD 網頁</li>
 <li>理解 HTML5 新功能(ex. canvas 製作簡易動畫、video 影片播放控制、WebSocket 協定、localStorage 存取)</li>
 <li>具備 使用 CSS 框架 BootStrap 網格系統快速建置專案經驗</li>
 <li>具備處理各式瀏覽器兼容性問題能力及使用 babel-polyfill 做語法向下相容</li>
 <li>了解 jQuery 語法，包含 DOM 元素之操控及 Ajax 請求資料</li>
 <li>能用 Javascript 配合 firebase 資料庫 API 建立應用 (ex.簡易聊天室)</li>
-<li>熟悉 Javascript 原生語法(含ES6)， 並善用邏輯編寫各種網頁效果 (ex.資料處理、API串接、動畫效果、非同步處理、正規表示法)</li>
+<li>熟悉 Javascript 原生語法(含ES6-ES14)， 並善用邏輯編寫各種網頁效果 (ex.資料處理、API串接、動畫效果、非同步處理、正規表示法)</li>
 <li>善用除錯工具(ex. dev tool, v-console, fiddler, postman)，具備良好的網頁及行動裝置之 debug 能力</li>
-<li>具備 Vue.js 專案建立及維護經驗，熟悉 app 建立、vue 生命週期、DOM 資料綁定、事件監聽、資料刷新機制、component 設計、資料傳遞、Webpack 打包專案、並依需求引入第三方套件(ex 表單驗證、拖曳排序、網頁載入動畫)</li>
+<li>具備 Vue.js 專案建立及維護經驗，熟悉 app 建立、vue 生命週期、DOM 資料綁定、事件監聽、資料刷新機制、元件設計、資料傳遞、Webpack 打包專案、並依需求引入第三方套件(ex: Chart.js 圖表繪製) 及日後效能優化</li>
 <li>能用 Google Analysis 作網站流量分析(ex.用戶使用瀏覽器及行動裝置比例、拜訪時間、停駐時間、歷史足跡...)</li>
 <li>了解 FireBase 雲端資料庫功能，並用於開發專案</li>
+<li>了解後端 MVC 架構、前後端分離機制並具備 SSR 框架 Astro 使用經驗</li>
+<li>具備 Websocket 使用經驗</li>
 </ul>
 
 ### git/github
@@ -34,15 +40,6 @@
 <li>能使用 Git 指令在 GitHub 上進行版本控制</li>
 <li>能在 Github Page 建立靜態網頁</li>
 <li>熟悉 GUI 版控工具(ex. sourceTree)加速開發流程</li>
-</ul>
-
-### python/Django/Regex/MySQL
-<ul>
-<li>能以 python 進行基本網頁爬蟲</li>
-<li>能用 python Django 框架做簡單頁面承接前端資料，於處理後部屬至於雲端</li>
-<li>用過 python Django REST framework 製作簡易可瀏覽之 RESTful API</li>
-<li>了解基本 Regular expression</li>
-<li>了解 MySQL 基本 CRUD</li>
 </ul>
 
 ### Linux
@@ -85,24 +82,6 @@
 * [JS-30-days (JavaScript(ES6)、CSS3、CSS4)](https://github.com/ddchris/Javascript_30_Day_practice)
 
   * 不倚賴 Framework 的 Javascript(ES6) 30 個小應用
-  
-* [NBA 新聞爬蟲 (jQuery、Ajax、python、Django)](https://scrapnbanews.herokuapp.com/)
-
-  * 利用 requests、beautifulSoup 套件進行網頁新聞爬取並存至 SQLite
-  * 設定 timeInterval 定時更新資料
-  * 將爬得資料做簡單視覺化呈現
-  * 網頁部屬至 Heroku
-
-* [ Chris2012's 購物商城 (jQuery、Ajax、python、Django)](http://chris2012.pythonanywhere.com/)
-
-  * 使用 jQuery 做圖片輪播、自動完成註冊 e-mail 輸入、操控 DOM 做頁面切換
-  * 使用 Animate.css 插件達成簡單動畫
-  * 會員登入註冊系統 (含使用第三方 API 登入及 Regex 資料驗證)
-  * 網頁部屬至 pythonanywhere
-
-* [ 程式碼上色 RESTful API (python、Django、Django REST framework)](https://pastebintutorial.herokuapp.com/snippets/)
-  * 利用 Django REST framework 製作可瀏覽之網站式 RESTful API
-  * 設定簡單用戶存取權限
   
 ## Personality
 
